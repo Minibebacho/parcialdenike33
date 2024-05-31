@@ -1,0 +1,225 @@
+{
+    "productos":[
+        {
+            "ID": 1,
+            "Nombre": "Nike Air Force 1 '07",
+            "Precio": "S/529.29",
+            "Stock": "120 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw5307d45f/images/hi-res/197593658364_1_20240415-mrtPeru.jpg?sw=500&sh=500"
+        },
+        {
+            "ID": 2,
+            "Nombre": "Air Jordan 4 Retro Bred Reimagined",
+            "Precio": "S/699.90",
+            "Stock": "100 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas para niño Grandes",
+            "Marca": "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw7c7755d1/images/hi-res/196975682461_1_20240213120000-mrtPeru.jpeg?sw=500&sh=500"
+        },
+        {
+            "ID": 3,
+            "Nombre": "Nike Dunk Low Retro",
+            "Precio": "S/569.90",
+            "Stock": "Agotado",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "No Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwfcb5c81b/images/hi-res/197593657428_1_20240415-mrtPeru.jpg?sw=500&sh=500"
+        },
+        {
+            "ID": 4,
+            "Nombre": "Air Jordan 6 Retro Yellow Ochre",
+            "Precio": "S/899.90",
+            "Stock": "75 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "No Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw5eabddd5/images/hi-res/196975548477_1_20240212120000-mrtPeru.jpeg?sw=500&sh=500"
+        },
+        {
+            "ID": 5,
+            "Nombre": "Nike Dunk Low ESS",
+            "Precio": "S/539.90",
+            "Stock": "150 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas para mujer",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw236fb045/images/hi-res/196153964570_1_20240129120000-mrtPeru.jpg?sw=500&sh=500"
+        }, 
+        {
+            "ID": 6,
+            "Nombre": "Nike Zoom Mercurial Superfly 9 Academy TF",
+            "Precio": "S/429.90",
+            "Stock": "100 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas de fútbol de corte high para pasto sintético (turf)",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwf20b0160/images/hi-res/196608039075_1_20240207120000-mrtPeru.jpg?sw=800&sh=800"
+        },
+        {
+            "ID": 7,
+            "Nombre": "Nike Zoom Mercurial Superfly 9 Academy TF",
+            "Precio": "S/419.90",
+            "Stock": "50 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas de fútbol para pasto sintético (turf)",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwdfcd74cd/images/hi-res/196975733811_1_20240305120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 8,
+            "Nombre": "Nike Tiempo Legend 10 Academy TF",
+            "Precio": "S/369.90",
+            "Stock": "90 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas de fútbol para pasto sintético (turf)",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwb3f62540/images/hi-res/196608059769_1_20240208120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 9,
+            "Nombre": "Nike Tiempo Legend 10 Academy",
+            "Precio": "S/269.90",
+            "Stock": "90 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Zapatillas de fútbol para pasto sintético (turf)",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw0cb568b1/images/hi-res/196974632047_1_20240305120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 10,
+            "Nombre": "Nike Phantom GX 2 Elite AS",
+            "Precio": "S/1190.90",
+            "Stock": "50 pares disponibles",
+            "Categoría": "Zapatillas",
+            "Descripción": "Chimpunes de fútbol bajas FG",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw951437fb/images/hi-res/197593752932_1_20240506120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 11,
+            "Nombre": "LeBron x Liverpool FC Stadium",
+            "Precio": "S/ 349.90",
+            "Stock": "Disponible en 2 colores",
+            "Categoría": "Camiseta",
+            "Descripción": "Camiseta Replica de Fútbol Nike Dri-FITpara hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw759c021d/images/hi-res/196974560906_1_202403204120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 12,
+            "Nombre": "Nike Alianza Lima 2023 Local Estampada",
+            "Precio": " S/ 173.94 ",
+            "Stock": "Disponible en 1 color",
+            "Categoría": "Camiseta",
+            "Descripción": "Camiseta de fútbol Dri-FIT para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw0e5f4888/images/hi-res/2050001986863_1_20230418120000-mrtPeru.jpg?sw=800&sh=800"
+        },
+        {
+            "ID": 13,
+            "Nombre": "Brazil 2024 Local Stadium",
+            "Precio": "S/ 349.90",
+            "Stock": "Disponible en  1 Color",
+            "Categoría": "Camiseta",
+            "Descripción": " Camiseta de fútbol Nike Dri-FIT para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw1c2ad4e2/images/hi-res/196969877491_1_20240430-mrtPeru.jpg?sw=800&sh=800"
+        },
+
+        {
+            "ID": 14,
+            "Nombre": "Lebron James Los Angeles Lakers City Edition 2023/24",
+            "Precio": " S/ 275.94",
+            "Stock": "Disponible en  1 Color",
+            "Categoría": "Camiseta",
+            "Descripción": "Polo Nike Dri-FIT de la NBA Swingman para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw485eeee6/images/hi-res/196968573431_1_20240129120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 15,                   
+            "Nombre": "Nike Sportswear",
+            "Precio": "S/ 99.90",
+            "Stock": "Disponible en 3 Colores",
+            "Categoría": "Camiseta",
+            "Descripción": "Polo para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw162c8300/images/hi-res/191888621941_1_20240305-mrtPeru.jpg?sw=800&sh=800"
+        },
+        {
+            "ID": 16,
+            "Nombre": "Jordan Essentials",
+            "Precio": " S/ 239.90",
+            "Stock": "Disponible en  1 Color",
+            "Categoría": "Pantalon",
+            "Descripción": "Pantalón de tejido Fleece para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwe795fade/images/hi-res/196976103637_1_20240129120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 17,
+            "Nombre": "Nike Sportswear Tech Fleece",
+            "Precio": "  S/ 399.90 ",
+            "Stock": "Disponible en  4 Colores",
+            "Categoría": "Pantalon",
+            "Descripción": "Joggers de ajuste slim para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwd6e56bd7/images/hi-res/196607415139_1_20230922120000-mrtPeru.jpeg?sw=800&sh=800"
+        },
+        {
+            "ID": 18,            
+            "Nombre": "Nike Sportswear Tech Fleece",
+            "Precio": " S/ 399.90",
+            "Stock": "Disponible en   4 Colores",
+            "Categoría": "Pantalon",
+            "Descripción": "Joggers de ajuste slim para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw1ed33668/images/hi-res/196607414910_1_20240213120000-mrtPeru.jpg?sw=800&sh=800"
+        },
+
+        {
+            "ID": 19,
+            "Nombre": "Nike Sport S/ 399.90S/ 275.94",
+            "Stock": "Disponible en   4 Colores",
+            "Categoría": "Pantalon",
+            "Descripción": "Joggers de ajuste slim para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwf7d91a07/images/hi-res/196607415405_1_20240213120000-mrtPeru.jpg?sw=800&sh=800"
+        },
+        {
+            "ID": 20,                   
+            "Nombre": "Nike Life",
+            "Precio": "  S/ 399.900",
+            "Stock": "Disponible en 2 Colores",
+            "Categoría": "Pantalon",
+            "Descripción": "Pantalón de carpintero para hombre",
+            "Marca" : "Nike",
+            "Disponibilidad": "Disponible",
+            "Imagen":"https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dwde8bf47e/images/hi-res/196976174798_1_20240129120000-mrtPeru.jpg?sw=800&sh=800"
+        }
+    ]
+}
